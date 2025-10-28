@@ -18,7 +18,7 @@ Built for **accuracy, privacy, and flexibility**, Transgate supports **over 50 l
 
 We believe that every recording has untapped value — Transgate helps you unlock it.
 
-**Website:** [https://www.transgate.ai](https://www.transgate.ai)
+**Website:** [https://transgate.ai](https://transgate.ai)
 
 ---
 
